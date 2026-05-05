@@ -23,7 +23,7 @@ No additional libraries required – just Python 3.6+.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/QuestScrolls/Transaction_Analyzer.git
 2.  Navigate into the project folder and run script:
    ```bash
   cd transaction-analyzer
